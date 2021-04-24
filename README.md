@@ -1,6 +1,9 @@
 # Bem-vindo Podcastr!
 
-Olá! Este é um site desenvolvido em **Next**, afim de reproduzir seus podcasts favoritos.
+Olá! Este é um site desenvolvido em **React**, afim de reproduzir seus podcasts favoritos.
+
+# Demonstração
+[https://podcastr-fhminato.vercel.app](https://podcastr-fhminato.vercel.app)
 
 # Feito Com
 
